@@ -1,5 +1,6 @@
 ## Swift Dice Roller App
-<img width="71" alt="Screenshot 2023-12-07 at 14 27 15" src="https://github.com/mehtapparkinson/Swift-Dice-Roller-App/assets/97293905/36892702-cd97-4dfe-a81a-6de6d65e0c0d"> Swift Dice Roller is a simple and efficient app, perfect for anyone in need of a random dice roll. Developed with Swift, it offers reliable and fast performance for all your dice-rolling needs.
+<img width="71" alt="Screenshot 2023-12-07 at 14 27 15" src="https://github.com/mehtapparkinson/Swift-Dice-Roller-App/assets/97293905/36892702-cd97-4dfe-a81a-6de6d65e0c0d"> 
+Swift Dice Roller is a simple and efficient app, perfect for anyone in need of a random dice roll. Developed with Swift, it offers reliable and fast performance for all your dice-rolling needs.
 
 ### Key Features
 - **Random Dice Rolls**: Quickly get random dice results for your games and decision-making.
